@@ -1,2 +1,2 @@
-jazz = input("jazz?\n")
-print("no one asked")
+sex = input("skriv\n")
+print("Antal personer som frågde: 0")
